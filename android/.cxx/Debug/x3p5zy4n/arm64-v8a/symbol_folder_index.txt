@@ -1,0 +1,1 @@
+D:\GitHub\dtexg3_rn_mobile\node_modules\react-native-fast-tflite\android\build\intermediates\cxx\Debug\x3p5zy4n\obj\arm64-v8a

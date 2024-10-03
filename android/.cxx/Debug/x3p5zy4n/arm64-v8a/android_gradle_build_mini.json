@@ -1,0 +1,37 @@
+{
+  "buildFiles": [
+    "D:\\GitHub\\dtexg3_rn_mobile\\node_modules\\react-native-fast-tflite\\android\\.cxx\\Debug\\x3p5zy4n\\prefab\\arm64-v8a\\prefab\\lib\\aarch64-linux-android\\cmake\\fbjni\\fbjniConfig.cmake",
+    "D:\\GitHub\\dtexg3_rn_mobile\\node_modules\\react-native-fast-tflite\\android\\.cxx\\Debug\\x3p5zy4n\\prefab\\arm64-v8a\\prefab\\lib\\aarch64-linux-android\\cmake\\fbjni\\fbjniConfigVersion.cmake",
+    "D:\\GitHub\\dtexg3_rn_mobile\\node_modules\\react-native-fast-tflite\\android\\.cxx\\Debug\\x3p5zy4n\\prefab\\arm64-v8a\\prefab\\lib\\aarch64-linux-android\\cmake\\ReactAndroid\\ReactAndroidConfig.cmake",
+    "D:\\GitHub\\dtexg3_rn_mobile\\node_modules\\react-native-fast-tflite\\android\\.cxx\\Debug\\x3p5zy4n\\prefab\\arm64-v8a\\prefab\\lib\\aarch64-linux-android\\cmake\\ReactAndroid\\ReactAndroidConfigVersion.cmake",
+    "D:\\GitHub\\dtexg3_rn_mobile\\node_modules\\react-native-fast-tflite\\android\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\Henry\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "D:\\GitHub\\dtexg3_rn_mobile\\node_modules\\react-native-fast-tflite\\android\\.cxx\\Debug\\x3p5zy4n\\arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\Henry\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "D:\\GitHub\\dtexg3_rn_mobile\\node_modules\\react-native-fast-tflite\\android\\.cxx\\Debug\\x3p5zy4n\\arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "VisionCameraTflite::@6890427a1f51a3e7e1df": {
+      "artifactName": "VisionCameraTflite",
+      "abi": "arm64-v8a",
+      "output": "D:\\GitHub\\dtexg3_rn_mobile\\node_modules\\react-native-fast-tflite\\android\\build\\intermediates\\cxx\\Debug\\x3p5zy4n\\obj\\arm64-v8a\\libVisionCameraTflite.so",
+      "runtimeFiles": [
+        "C:\\Users\\Henry\\.gradle\\caches\\8.8\\transforms\\f7e7d8e15b8dd6d3df49e4b533bc2e58\\transformed\\jetified-react-android-0.74.5-debug\\prefab\\modules\\jsi\\libs\\android.arm64-v8a\\libjsi.so",
+        "C:\\Users\\Henry\\.gradle\\caches\\8.8\\transforms\\f7e7d8e15b8dd6d3df49e4b533bc2e58\\transformed\\jetified-react-android-0.74.5-debug\\prefab\\modules\\reactnativejni\\libs\\android.arm64-v8a\\libreactnativejni.so",
+        "C:\\Users\\Henry\\.gradle\\caches\\8.8\\transforms\\7ae4e699c1ae69bd207be2e4a6a586df\\transformed\\jetified-fbjni-0.6.0\\prefab\\modules\\fbjni\\libs\\android.arm64-v8a\\libfbjni.so",
+        "D:\\GitHub\\dtexg3_rn_mobile\\node_modules\\react-native-fast-tflite\\android\\src\\main\\cpp\\lib\\tensorflow\\jni\\arm64-v8a\\libtensorflowlite_jni.so",
+        "D:\\GitHub\\dtexg3_rn_mobile\\node_modules\\react-native-fast-tflite\\android\\src\\main\\cpp\\lib\\tensorflow\\jni\\arm64-v8a\\libtensorflowlite_gpu_jni.so"
+      ]
+    }
+  }
+}

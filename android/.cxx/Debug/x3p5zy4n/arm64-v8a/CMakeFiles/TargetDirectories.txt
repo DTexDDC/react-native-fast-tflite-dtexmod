@@ -1,0 +1,3 @@
+D:/GitHub/dtexg3_rn_mobile/node_modules/react-native-fast-tflite/android/.cxx/Debug/x3p5zy4n/arm64-v8a/CMakeFiles/VisionCameraTflite.dir
+D:/GitHub/dtexg3_rn_mobile/node_modules/react-native-fast-tflite/android/.cxx/Debug/x3p5zy4n/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/GitHub/dtexg3_rn_mobile/node_modules/react-native-fast-tflite/android/.cxx/Debug/x3p5zy4n/arm64-v8a/CMakeFiles/rebuild_cache.dir
